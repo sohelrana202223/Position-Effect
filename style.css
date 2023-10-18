@@ -1,0 +1,634 @@
+/* Global css start hear */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.align-item{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.gap-10{
+    gap: 10px;
+}
+
+/* Global css end hear */
+
+
+
+header{
+    background-color: #a8a3a3;
+    padding: 10px 0;
+}
+.logo{
+    max-width: 10%;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+nav{
+    max-width: 80%;
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 6px;
+    justify-content: end;
+}
+nav ul li{
+
+}
+nav ul li a{
+    color: #222;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+nav ul li a:hover{    
+    color: #fff;   
+    background-color: #1d73be;    
+    border-radius: 6px;        
+    transition-duration: 0.5s;
+}
+
+.herobanner{
+    background: #00504c url(img/img1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+   background-position-Y: bottom;
+   background-size: cover;
+   background-size: cover;
+}
+.herocontent{}
+.herocontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 47px;
+}
+.herocontent p{
+    font-size: 19px;
+    color: #fff;
+}
+.gallery{
+    padding: 50px 0;
+}
+.galleryimg{
+    flex-basis: 50%;
+    padding: 10px;
+    position: relative;
+}
+.galleryimg img{    
+    width: 100%;
+    aspect-ratio: 1/1;        
+    object-fit: cover;
+    display: block;
+}
+.galleryimg div{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 39px;
+    color: #fff;
+    align-items: baseline;
+}
+.galleryimg div h2{
+
+}
+.galleryimg div a{
+    color: #fff;
+}
+/* Global css start hear */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.align-item{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.gap-10{
+    gap: 10px;
+}
+
+/* Global css end hear */
+
+
+
+header{
+    background-color: #a8a3a3;
+    padding: 10px 0;
+}
+.logo{
+    max-width: 10%;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+nav{
+    max-width: 80%;
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 6px;
+    justify-content: end;
+}
+nav ul li{
+
+}
+nav ul li a{
+    color: #222;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+nav ul li a:hover{    
+    color: #fff;   
+    background-color: #1d73be;    
+    border-radius: 6px;        
+    transition-duration: 0.5s;
+}
+
+.herobanner{
+    background: #00504c url(img/img1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+   background-position-Y: bottom;
+   background-size: cover;
+   background-size: cover;
+}
+.herocontent{}
+.herocontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 47px;
+}
+.herocontent p{
+    font-size: 19px;
+    color: #fff;
+}
+.gallery{
+    padding: 50px 0;
+}
+.galleryimg{
+    flex-basis: 50%;
+    padding: 10px;
+    position: relative;
+}
+.galleryimg img{    
+    width: 100%;
+    aspect-ratio: 1/1;        
+    object-fit: cover;
+    display: block;
+}
+.galleryimg div{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 39px;
+    color: #fff;
+    align-items: baseline;
+}
+.galleryimg div h2{
+
+}
+.galleryimg div a{
+    color: #fff;
+}
+/* Global css start hear */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.align-item{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.gap-10{
+    gap: 10px;
+}
+
+/* Global css end hear */
+
+
+
+header{
+    background-color: #a8a3a3;
+    padding: 10px 0;
+}
+.logo{
+    max-width: 10%;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+nav{
+    max-width: 80%;
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 6px;
+    justify-content: end;
+}
+nav ul li{
+
+}
+nav ul li a{
+    color: #222;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+nav ul li a:hover{    
+    color: #fff;   
+    background-color: #1d73be;    
+    border-radius: 6px;        
+    transition-duration: 0.5s;
+}
+
+.herobanner{
+    background: #00504c url(img/img1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+   background-position-Y: bottom;
+   background-size: cover;
+   background-size: cover;
+}
+.herocontent{}
+.herocontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 47px;
+}
+.herocontent p{
+    font-size: 19px;
+    color: #fff;
+}
+.gallery{
+    padding: 50px 0;
+}
+.galleryimg{
+    flex-basis: 50%;
+    padding: 10px;
+    position: relative;
+}
+.galleryimg img{    
+    width: 100%;
+    aspect-ratio: 1/1;        
+    object-fit: cover;
+    display: block;
+}
+.galleryimg div{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 39px;
+    color: #fff;
+    align-items: baseline;
+}
+.galleryimg div h2{
+
+}
+.galleryimg div a{
+    color: #fff;
+}
+/* Global css start hear */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.align-item{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.gap-10{
+    gap: 10px;
+}
+
+/* Global css end hear */
+
+
+
+header{
+    background-color: #a8a3a3;
+    padding: 10px 0;
+}
+.logo{
+    max-width: 10%;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+nav{
+    max-width: 80%;
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 6px;
+    justify-content: end;
+}
+nav ul li{
+
+}
+nav ul li a{
+    color: #222;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+nav ul li a:hover{    
+    color: #fff;   
+    background-color: #1d73be;    
+    border-radius: 6px;        
+    transition-duration: 0.5s;
+}
+
+.herobanner{
+    background: #00504c url(img/img1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+   background-position-Y: bottom;
+   background-size: cover;
+   background-size: cover;
+}
+.herocontent{}
+.herocontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 47px;
+}
+.herocontent p{
+    font-size: 19px;
+    color: #fff;
+}
+.gallery{
+    padding: 50px 0;
+}
+.galleryimg{
+    flex-basis: 50%;
+    padding: 10px;
+    position: relative;
+}
+.galleryimg img{    
+    width: 100%;
+    aspect-ratio: 1/1;        
+    object-fit: cover;
+    display: block;
+}
+.galleryimg div{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 39px;
+    color: #fff;
+    align-items: baseline;
+}
+.galleryimg div h2{
+
+}
+.galleryimg div a{
+    color: #fff;
+}
+/* Global css start hear */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+.align-item{
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.gap-10{
+    gap: 10px;
+}
+
+/* Global css end hear */
+
+
+
+header{
+    background-color: #a8a3a3;
+    padding: 10px 0;
+}
+.logo{
+    max-width: 10%;
+}
+.logo a{
+
+}
+.logo a img{
+
+}
+nav{
+    max-width: 80%;
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 6px;
+    justify-content: end;
+}
+nav ul li{
+
+}
+nav ul li a{
+    color: #222;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+nav ul li a:hover{    
+    color: #fff;   
+    background-color: #1d73be;    
+    border-radius: 6px;        
+    transition-duration: 0.5s;
+}
+
+.herobanner{
+    background: #00504c url(img/img1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+   background-position-Y: bottom;
+   background-size: cover;
+   background-size: cover;
+}
+.herocontent{}
+.herocontent h1{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 800;
+    line-height: 47px;
+}
+.herocontent p{
+    font-size: 19px;
+    color: #fff;
+}
+.gallery{
+    padding: 50px 0;
+}
+.galleryimg{
+    flex-basis: 50%;
+    padding: 10px;
+    position: relative;
+}
+.galleryimg img{    
+    width: 100%;
+    aspect-ratio: 1/1;        
+    object-fit: cover;
+    display: block;
+}
+.galleryimg div{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 39px;
+    color: #fff;
+    align-items: baseline;
+}
+.galleryimg div h2{
+    font-size: 20px;
+    opacity: 1;
+    transition-duration: 0.4s;
+    transform: translateY(62px);
+}
+.galleryimg:hover div h2{
+    opacity: 1;
+    transform: translateY(0px);
+}
+.galleryimg div a{
+    color: #fff;
+    opacity: 0;
+    transition-duration: 0.4s;
+    transform: translateX(0px);
+}
+.galleryimg:hover div a{
+    opacity: 1;
+    transform: translateX(10px);
+}
